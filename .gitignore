@@ -1,10 +1,5 @@
-./sql
-./CSV's
-/sql
-/CSV's
-
-.CSV's
-.sql/
+/sql/
+/CSV's/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
