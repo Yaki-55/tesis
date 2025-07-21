@@ -1,6 +1,7 @@
 /sql/
 /CSV's/
 /tesis/
+/imagenes/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
